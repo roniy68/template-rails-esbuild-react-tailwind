@@ -35,5 +35,6 @@ By following these practices and promptly reporting any security concerns, we ca
 Thank you for your help in making template-rails-esbuild-react-tailwind a safe and secure project!
 
 Email : [ahr@drsight.us](mailto:ahr@drsight.us)
+Support : [support@drsight.us](mailto:support@drsight.us)
 
 
